@@ -56,7 +56,7 @@ Beam current :
 
 Repeller voltage :
 
-~~~
+~~~ 
 V1 : 
 ~~~
 ## RESULT:
